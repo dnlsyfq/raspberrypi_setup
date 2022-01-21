@@ -28,3 +28,9 @@ ip address
 
 https://www.realvnc.com/en/connect/download/viewer/
 ```
+
+
+### Python
+
+1. download pip
+2. python3 get-pip.py
